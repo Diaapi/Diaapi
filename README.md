@@ -7,5 +7,5 @@ My favorite language is: C# and the ecosistem of .NET.
 
 ### My social media
 
-* [https://www.youtube.com/channel/UC8hrxIo64TdPGOcsCYC7OwQ](Youtube)
-* [https://www.linkedin.com/in/diego-aleman-56980a181/](Linkedin)
+* [Youtube](https://www.youtube.com/channel/UC8hrxIo64TdPGOcsCYC7OwQ)
+* [Linkedin](https://www.linkedin.com/in/diego-aleman-56980a181/)
