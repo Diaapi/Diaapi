@@ -1,15 +1,6 @@
-# Console.WriteLine("Hola Mundo");
+# Console.WriteLine("Hi everyone");
 
-### 🧠 Se desarrollar aplicaciones Moviles y escritorio
-### 🦾 Estoy aprendiendo de desarrollo web con: **Blazor**
+## I am a developer dedicated to helps others peaple with my applications, dedicate to create mobile application with Xamarin Forms and create desktop application
+## with WPF and UWP, I am learn Blazor for the web developer.
 
-### Trabajo con:
-* Xamarin Forms
-* WPF
-* C#
-* Visual basic
-
-
-
-
-
+## My favorite language is: C# and the ecosistem of .NET.
